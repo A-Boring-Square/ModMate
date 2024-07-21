@@ -1,4 +1,5 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/A-Boring-Square/ModMate/total)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/A-Boring-Square/ModMate/latest/total)
 
 ModMate
 =======
