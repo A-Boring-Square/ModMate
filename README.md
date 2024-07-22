@@ -9,7 +9,7 @@ Your Comprehensive Modding Tool for Games and Software
 Introduction
 ------------
 
-ModMate is a powerful TUI (Text User Interface) application designed to enhance your modding experience. It supports a wide range of features, from game modding to Python program manipulation and PyInstaller executable modification. Here’s a detailed overview of what ModMate can do:
+ModMate is a powerful Gui application designed to enhance your modding experience. It supports a wide range of features, from game modding to Python program manipulation and PyInstaller executable modification. Here’s a detailed overview of what ModMate can do:
 
 Game Modding
 ------------
